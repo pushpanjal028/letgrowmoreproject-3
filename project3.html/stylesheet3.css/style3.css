@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(245, 243, 243);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.navbar{
+    margin: 23px;
+    background-color: blueviolet;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    }
+.container{
+    color: rgb(12, 12, 12);
+    display: block;
+    margin: 53px;
+    padding-top: 23px;
+    align-items: center;
+    text-align: center;
+}
+
+#firstName{
+    margin: 13px;
+    color: rgb(255, 42, 0);
+}
+
+#lastName{
+    margin: 13px;
+    color: rgb(255, 42, 0); 
+}
+#Email{
+    margin: 13px;
+    color: rgb(255, 42, 0);
+}
+
+.b1{
+    padding:12px;
+    margin: 23px;
+    background-color: blueviolet;
+    color: white;
+    align-items: center;
+    border-radius: 15px;
+
+}
+.b1:hover{
+    background-color: rgb(70, 221, 24);
+}
+
+
+#displayData{
+    margin-left: 60%;
+}
